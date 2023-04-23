@@ -42,8 +42,9 @@ I'm a React.js Developer with 2.1 years of experience in building web applicatio
 
 ## &#x1f517; Let's Connect!
 
-I'm always interested in new opportunities and collaborations, so feel free to reach out and connect with me.
+I'm always interested in new opportunities and collaborations, so feel free to reach out and connect with me.'
+
+Email: devmohnishsharma@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohnishsharma23)
-Email: devmohnishsharma@gmail.com
 
