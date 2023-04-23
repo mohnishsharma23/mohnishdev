@@ -1,6 +1,6 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm [Mohnish SHarma] 👋
 
-I'm a React.js developer with [Number of Years] years of experience in designing and building high-quality web applications. I'm passionate about using React.js to create responsive, scalable, and user-friendly web interfaces that meet business requirements and deliver value to end-users.
+I'm a React.js developer with [2.1] years of experience in designing and building high-quality web applications. I'm passionate about using React.js to create responsive, scalable, and user-friendly web interfaces that meet business requirements and deliver value to end-users.
 
 ## What I Do
 
@@ -21,16 +21,9 @@ I'm a React.js developer with [Number of Years] years of experience in designing
 - Testing frameworks such as Jest and Enzyme
 - Git, Agile methodologies, and project management tools such as JIRA
 
-## My Portfolio
-
-- [Link to your portfolio or website]
-- [Link to a project you're proud of]
-- [Link to another project you're proud of]
-
 ## Get In Touch
 
-- Email: [Your Email Address]
-- LinkedIn: [Your LinkedIn Profile URL]
-- Twitter: [Your Twitter Profile URL]
+- Email: [devmohnishsharma@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/mohnishsharma23/]
 
 I'm always interested in new opportunities and collaborations, so feel free to reach out and connect with me.
