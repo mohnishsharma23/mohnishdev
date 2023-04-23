@@ -1,6 +1,7 @@
-# Hi, I'm Mohnish Sharma 👋
+<!-- Your Name -->
+# Hello, I'm Mohnish 👋
 
-I'm a React.js developer with 2.1 years of experience in designing and building high-quality web applications. I'm passionate about using React.js to create responsive, scalable, and user-friendly web interfaces that meet business requirements and deliver value to end-users.
+I'm a React.js Developer with 2.1 years of experience in building web applications. My passion is to build efficient, scalable, and user-friendly applications using React.js and related technologies.
 
 ## What I Do
 
@@ -10,20 +11,40 @@ I'm a React.js developer with 2.1 years of experience in designing and building 
 - Write efficient and scalable code using best practices and design patterns.
 - Test and debug code to ensure quality and performance, using frameworks such as Jest and Enzyme.
 - Deploy and maintain web applications in production environments, using cloud-based technologies such as AWS or Azure.
-- Keep up-to-date with industry trends and best practices, and continuously improve skills and knowledge of React.js and related technologies.
+- Keep up-to-date with industry trends and best practices, and continuously
 
-## My Skills
+## 🔧 Technologies & Tools
 
-- React.js, Redux, and related technologies
-- HTML, CSS, and JavaScript
-- Node.js, Express.js, and related back-end technologies
-- RESTful APIs and web services
-- Testing frameworks such as Jest and Enzyme
-- Git, Agile methodologies, and project management tools such as JIRA
+![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=redux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Express.js-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
 
-## Get In Touch
+## &#x1f4c1; Pinned Repositories
 
-- Email: devmohnishsharma@gmail.com
-- LinkedIn: https://www.linkedin.com/in/mohnishsharma23/
+<a href="https://github.com/mohnishdev/githubreposearch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohnishdev&repo=githubreposearch&theme=react" />
+</a>
+
+<a href="https://github.com/mohnishdev/ChatApplicationBackend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohnishdev&repo=ChatApplicationBackend&theme=react" />
+</a>
+
+<a href="https://github.com/mohnishdev/ChatApplicationFE">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohnishdev&repo=ChatApplicationFE&theme=react" />
+</a>
+
+## &#x1f517; Let's Connect!
+
+- Email: [Your Email Address]
+- LinkedIn: [Your LinkedIn Profile URL]
 
 I'm always interested in new opportunities and collaborations, so feel free to reach out and connect with me.
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohnishsharma23)
