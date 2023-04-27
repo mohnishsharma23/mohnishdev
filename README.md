@@ -1,7 +1,7 @@
 <!-- Your Name -->
 # Hello, I'm Mohnish 👋
 
-I'm a Web Developer with 2.1 years of experience in building web applications. My passion is to build efficient, scalable, and user-friendly applications using React.js and related technologies.
+I'm a Web Developer with 3 years of experience in building web applications. My passion is to build efficient, scalable, and user-friendly applications using React.js and related technologies.
 
 ## What I Do
 
